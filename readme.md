@@ -11,7 +11,7 @@
 
 ***You can see and test calculator from below 👇***
 
-[![Calculator site](https://img.shields.io/badge/CLICK-TO%20VIEW-brightgreen)](https://github.com/mukesh2309/Calculator)
+[![Calculator site](https://mukesh2309.github.io/Calculator/)
 
 
 ## About
